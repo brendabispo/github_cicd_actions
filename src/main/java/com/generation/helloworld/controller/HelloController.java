@@ -10,6 +10,6 @@ public class HelloController {
 
 	@GetMapping
 	public String hello() {
-		return "<br /><div align='center'><h1>Minha pimeira Pipeline CI/CD</h1></div>";
+		return "<br /><div align='center'><h1>Minha pimeira Pipeline CI/CD! Uhuuu lo/</h1></div>";
 	}
 }
